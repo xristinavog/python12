@@ -3,9 +3,7 @@ from calendar import monthrange
 from datetime import datetime
 
 def DateDifference(udate):
-    """A function for calculating the difference between a user input date
-    and the current computer date. The function also finds the number of
-    days of the user's input month.
+   
     
     Arguments:
         udate {datetime} -- The user's input date.
